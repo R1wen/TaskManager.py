@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# fichiers de configuration ou d'environnement
+.env
+*.env
+
+# fichiers de sauvegarde d'éditeurs
+*.swp
+*.swo
+*~
+
+# fichiers JSON de données
+taches.json
