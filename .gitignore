@@ -1,3 +1,4 @@
+# Fichiers générés
 __pycache__/
 *.pyc
 *.pyo
@@ -7,6 +8,9 @@ __pycache__/
 .env
 *.env
 
+# Environnement virtuel
+venv/
+
 # fichiers de sauvegarde d'éditeurs
 *.swp
 *.swo
@@ -14,3 +18,6 @@ __pycache__/
 
 # fichiers JSON de données
 taches.json
+
+# Fichiers système
+.DS_Store
