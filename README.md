@@ -1,6 +1,7 @@
 # Notebook RWN
 
 A simple command-line task manager in Python to add, mark, delete, and list your tasks, with persistent storage in a JSON file.
+This project was created to train me in Python programming.
 
 ## Features
 
@@ -67,8 +68,6 @@ Follow the on-screen menu to manage your tasks.
 - [`markedTask.py`](markedTask.py): Functionality to mark tasks as completed.
 - [`save.py`](save.py): Handles saving tasks to `taches.json`.
 - [`taches.json`](taches.json): Stores your tasks (auto-generated).
-- [`__pycache__/`](__pycache__): Python bytecode cache (ignored by git).
-- [`.gitignore`](.gitignore): Files and folders ignored by git.
 
 ## Example
 
@@ -86,7 +85,3 @@ Follow the on-screen menu to manage your tasks.
 ## License
 
 MIT License
-
----
-
-*Generated with [gitdocify](https://github.com/gitdocify/gitdocify) style.*
